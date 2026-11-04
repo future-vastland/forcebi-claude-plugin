@@ -1,0 +1,14 @@
+{
+  "name": "forcebi",
+  "displayName": "ForceBI",
+  "version": "1.0.0",
+  "description": "Read-only ForceBI business data (sales, collections, debtors, purchase orders, stock, customers, targets) in Claude, limited to your own ForceBI login, company and permissions, with the ForceBI answer style.",
+  "author": {
+    "name": "Force Tech Sdn Bhd",
+    "url": "https://www.forcetechai.com/"
+  },
+  "homepage": "https://www.forcetechai.com/",
+  "privacyPolicyUrl": "https://www.forcetechai.com/privacy/",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["forcebi", "business intelligence", "sales", "receivables", "purchasing", "read-only"]
+}

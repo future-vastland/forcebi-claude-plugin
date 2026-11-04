@@ -1,0 +1,15 @@
+{
+  "name": "forcetech",
+  "description": "Force Tech plugins for Claude.",
+  "owner": {
+    "name": "Force Tech Sdn Bhd",
+    "url": "https://www.forcetechai.com/"
+  },
+  "plugins": [
+    {
+      "name": "forcebi",
+      "source": "./forcebi",
+      "description": "Read-only ForceBI business data, limited to your own ForceBI login and permissions, with the ForceBI answer style."
+    }
+  ]
+}
